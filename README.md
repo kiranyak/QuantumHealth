@@ -7,3 +7,4 @@ Author:
 
 1. RajaBabu Chauhan
 2. Kiran Adhikari
+3. Manish Baral

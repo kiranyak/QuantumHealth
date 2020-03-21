@@ -18,7 +18,7 @@ Step 3: Display the data, quantum circuits, graphs for the users.
 
 Data is 
 
-Author:
+Authors:
 
 1. RajaBabu Chauhan
 2. Kiran Adhikari

@@ -23,5 +23,4 @@ cmds += '--NotebookApp.ip='  + gethostname()+ " "
 cmds += "--NotebookApp.open_browser=True " 
 cmds += "--NotebookApp.file_to_run=" + "plotter.ipynb"
 
-os.system("conda install pywin32")
 os.system(cmds)
